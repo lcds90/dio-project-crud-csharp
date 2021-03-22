@@ -27,8 +27,7 @@ Projeto desenvolvido em console de aplicação de cadastro de séries aplicando 
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lcds90/dio-project-poo-csharp/development/img/screenshot.PNG" alt="Screenshot 1">
-<img src="https://raw.githubusercontent.com/lcds90/dio-project-poo-csharp/development/img/screenshot2.PNG" alt="Screenshot 2">
+<img src="https://raw.githubusercontent.com/lcds90/dio-project-crud-csharp/development/img/screenshot.PNG" alt="Screenshot ">
 </p>
 
 ## :file_folder: Estrutura do projeto <a name = "structure"></a>
