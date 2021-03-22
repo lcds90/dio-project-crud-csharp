@@ -35,6 +35,7 @@ Projeto desenvolvido em console de aplicação de cadastro de séries aplicando 
 ```
  ├── dio-project-poo                   
     ├── class                    # Arquivos com classes do programa.
+    ├── enum                     # Arquivos com dados pré-definidos
     ├── interface                # Arquivos com regras de métodos
     ├── Program.cs               # Main de app
     └── README.md
